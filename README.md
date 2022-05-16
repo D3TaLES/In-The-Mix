@@ -1,5 +1,8 @@
 # In-The-Mix
-Colab links for In the Mix
+Colab links for In the Mix. 
+
+After opening one of the links below, **PLEASE COPY THE GOOGLE COLAB NOTEBOOK INTO YOUR OWN DRIVE** before running any cells. 
+This will ensure everyone can view and run the material simultaneously. 
 
 
 # Computation Workshop Notebooks
