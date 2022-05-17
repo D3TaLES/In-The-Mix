@@ -8,10 +8,10 @@ This will ensure everyone can view and run the material simultaneously.
 # Computation Workshop Notebooks
 
 ## Computation Day 1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z5_oQ0rIh4ZNYT296iBNNIFdGxApJceO?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lytqOK-NuBkR5NTbGYpFH-ZSS4ae1df6?usp=sharing)
 
 ## Computation Day 2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZpAOHCgbzHGfCD6Ltd9beNKC-L-9Po4v?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DNximAVhEq8Np2AOB5OT0yzH69ro4NGw?usp=sharing)
 
 
 # Machine Learning Workshop Notebooks
