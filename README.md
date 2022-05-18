@@ -7,20 +7,16 @@ This will ensure everyone can view and run the material simultaneously.
 
 # Computation Workshop Notebooks
 
-## Computation Day 1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lytqOK-NuBkR5NTbGYpFH-ZSS4ae1df6?usp=sharing)
+Computation Day 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lytqOK-NuBkR5NTbGYpFH-ZSS4ae1df6?usp=sharing)
 
-## Computation Day 2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DNximAVhEq8Np2AOB5OT0yzH69ro4NGw?usp=sharing)
+Computation Day 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DNximAVhEq8Np2AOB5OT0yzH69ro4NGw?usp=sharing)
 
 
 # Machine Learning Workshop Notebooks
 
-## Machine Learning Day 1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tZTNNsVTxZWnbTLDKm1fykz59btATTez?usp=sharing)
+Machine Learning Day 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tZTNNsVTxZWnbTLDKm1fykz59btATTez?usp=sharing)
 
-## Machine Learning Day 2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kdp-7Vf-FeT0qyUNbbMZVqlbCb_VelYA?usp=sharing)
+Machine Learning Day 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kdp-7Vf-FeT0qyUNbbMZVqlbCb_VelYA?usp=sharing)
 
 # Experimental Workshop Files
 
