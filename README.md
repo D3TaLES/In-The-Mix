@@ -17,8 +17,12 @@ This will ensure everyone can view and run the material simultaneously.
 # Machine Learning Workshop Notebooks
 
 ## Machine Learning Day 1
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tZTNNsVTxZWnbTLDKm1fykz59btATTez?usp=sharing)
 
 ## Machine Learning Day 2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kdp-7Vf-FeT0qyUNbbMZVqlbCb_VelYA?usp=sharing)
 
+# Experimental Workshop Files
+
+[Procedure Document](In the Mix experimental v1.docx)
+[Excel Sheet for Calculations](In the Mix experimental Excel.xlsx)
