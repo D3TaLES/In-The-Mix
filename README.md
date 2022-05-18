@@ -24,5 +24,5 @@ This will ensure everyone can view and run the material simultaneously.
 
 # Experimental Workshop Files
 
-[Procedure Document](In the Mix experimental v1.docx)
-[Excel Sheet for Calculations](In the Mix experimental Excel.xlsx)
+[Procedure Document](https://github.com/D3TaLES/In-The-Mix/blob/f6796c52241b7f1562dd0f39adac43b85af479d4/In-the-Mix-experimental-v1.docx)
+[Excel Sheet for Calculations](https://github.com/D3TaLES/In-The-Mix/blob/f6796c52241b7f1562dd0f39adac43b85af479d4/In-the-Mix-experimental-Excel.xlsx)
