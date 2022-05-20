@@ -21,6 +21,6 @@ Machine Learning Day 2: [![Open In Colab](https://colab.research.google.com/asse
 
 # Experimental Workshop Files
 
-[Procedure Document](https://github.com/D3TaLES/In-The-Mix/blob/f6796c52241b7f1562dd0f39adac43b85af479d4/In-the-Mix-experimental-v1.docx)
+[Procedure Document](https://github.com/D3TaLES/In-The-Mix/blob/933121a61653c302117875424c785497b5465f5e/IntheMixexperimentalprocedure.docx)
 
-[Excel Sheet for Calculations](https://github.com/D3TaLES/In-The-Mix/blob/f6796c52241b7f1562dd0f39adac43b85af479d4/In-the-Mix-experimental-Excel.xlsx)
+[Excel Sheet for Calculations](https://github.com/D3TaLES/In-The-Mix/blob/933121a61653c302117875424c785497b5465f5e/IntheMixexperimentalExcel.xlsx)
