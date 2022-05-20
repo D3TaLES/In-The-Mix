@@ -17,6 +17,7 @@ Computation Day 2: [![Open In Colab](https://colab.research.google.com/assets/co
 Machine Learning Day 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tZTNNsVTxZWnbTLDKm1fykz59btATTez?usp=sharing)
 
 Machine Learning Day 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kdp-7Vf-FeT0qyUNbbMZVqlbCb_VelYA?usp=sharing)
+- Morgan Fingerprint Demo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1Kdp-7Vf-FeT0qyUNbbMZVqlbCb_VelYA?usp=sharing](https://colab.research.google.com/drive/17TGog2rXjdjtMtSr1jhUPRzy7fHtcpWP?usp=sharing))
 
 # Experimental Workshop Files
 
