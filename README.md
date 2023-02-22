@@ -16,8 +16,8 @@ Computation Day 1: [![Open In Colab](https://colab.research.google.com/assets/co
 ## Day 2
 
 Experiment files: 
-* [Procedure Document](https://github.com/D3TaLES/In-The-Mix/blob/933121a61653c302117875424c785497b5465f5e/IntheMixexperimentalprocedure.docx)
-* [Excel Sheet for Calculations](https://github.com/D3TaLES/In-The-Mix/blob/933121a61653c302117875424c785497b5465f5e/IntheMixexperimentalExcel.xlsx)
+* [Procedure Document](experiments/IntheMixexperimentalprocedure.docx)
+* [Excel Sheet for Calculations](experiments/IntheMixexperimentalExcel.xlsx)
 
 Computation Day 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DNximAVhEq8Np2AOB5OT0yzH69ro4NGw?usp=sharing)
 
