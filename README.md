@@ -28,4 +28,4 @@ Data Science Day 2: [![Open In Colab](https://colab.research.google.com/assets/c
 
 # For Planners: 
 
-Please see the planning resources in the [planning folder](planning). 
+For those wishing to adapt the workshop the [planning folder](planning) contains planning materials such as background/motivation slides, an example recruitment flyer, an example registration form, pre- and post questionnaires for both participants and graduate student leaders, and a generic workshop agenda. 
