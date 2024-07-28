@@ -16,8 +16,8 @@ Data Science Day 1: [![Open In Colab](https://colab.research.google.com/assets/c
 ## Day 2
 
 Experiment files: 
-* [Procedure Document](experiments/IntheMixexperimentalprocedure.docx)
-* [Excel Sheet for Calculations](experiments/IntheMixexperimentalExcel.xlsx)
+* [Procedure Document](experiments/IntheMix_Experimentalprocedure.docx)
+* [Excel Sheet for Calculations](experiments/IntheMix_CalcuationsSpreadsheet.xlsx)
 * Colab Notebook for Data Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LTsqT21qmBHrlAE3aB_uP_sBXZQz9gKt?usp=sharing)
 
 Computation Day 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q0MTuqTNXmH-hl9OoUS3bZRX8WyQPOTl?usp=sharing)
