@@ -1,5 +1,6 @@
 # In-The-Mix
 Workshop material for In the Mix. 
+A detailed workshop description can be found in our publication: J. Chem. Educ. 2024, 101, 11, 5060–5067. DOI: [10.1021/acs.jchemed.4c00727](https://doi.org/10.1021/acs.jchemed.4c00727)
 
 
 # For Students: 
